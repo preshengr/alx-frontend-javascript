@@ -251,8 +251,3 @@ Please adhere to the [Contributor Covenant Code of Conduct](https://www.contribu
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code, provided you include the original license and attribution.
 
 ---
-
-**Happy Coding!**  
-Mastering Promises in ES6 paves the way for writing efficient and maintainable asynchronous JavaScript. Dive in, experiment with the examples, and build your expertise!
-
-```
